@@ -4,7 +4,7 @@ This is my archive of resources serving as context for my applied AI portfolio.
 
 1. Book Series exparament
 
-/b List of Books for the base of my series
+# List of Books for the base of my series
 - "David Copperfield" by Charles Dickens** – David’s early years establish the foundation of resilience and ambition as he faces a world that tests his innocence and moral compass. A natural "first chapter" for a journey that evolves in complexity.
 
 - "Jane Eyre" by Charlotte Brontë** – Continuing with a character like David, now as Jane, the story deepens the protagonist’s exploration of love, independence, and moral conviction, tested in a much darker, more intimate setting.
