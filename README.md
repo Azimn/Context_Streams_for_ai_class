@@ -19,13 +19,13 @@ This is my archive of resources serving as context for my applied AI portfolio.
 
 - "Anne of Green Gables" by L.M. Montgomery – Anne Shirley: As the "final book," Anne’s optimism and creativity bring a lighter yet still profound conclusion to the journey, where the protagonist finds acceptance, purpose, and joy in a settled life.
 
-#Series Title: The Trials of Evan March
+# Series Title: The Trials of Evan March
 
 Setting: A loosely Victorian-era world with subtle elements of magic and mystery, where cities and rural estates blend with mythical forests, secret societies, and ancient conspiracies.
 
 Tone: Romantic, dark, with introspective journeys; each book grows in complexity, following Evan's transformation from a naïve youth to a scarred yet resilient hero, interweaving elements of romance, moral dilemmas, and redemption.
 
-#Book 1: The Orphan’s Quest (Inspired by David Copperfield)
+# Book 1: The Orphan’s Quest (Inspired by David Copperfield)
 
 Summary: Young Evan March is left destitute after the death of his parents. Sent to a cruel boarding school, he struggles to survive while dreaming of a greater destiny. When he escapes to the bustling city of Everhaven, he’s determined to build a new life—but quickly learns that the city has dark secrets, and people he thought he could trust may be his greatest enemies.
 
@@ -37,7 +37,7 @@ Call to Adventure: Evan receives a mysterious letter from his deceased father hi
 Trials: Forced to navigate cutthroat city politics, poverty, and dubious allies.
 Resolution: Evan discovers a powerful heirloom and uncovers a piece of his family’s lost legacy.
 
-#Book 2: Shadows of the Manor (Inspired by Jane Eyre)
+# Book 2: Shadows of the Manor (Inspired by Jane Eyre)
 
 Summary: Evan, now a young adult, takes a position at Ravenswood Manor, a sprawling, mysterious estate rumored to be haunted. Here, he encounters Lady Morwenna, a cold yet magnetic noblewoman hiding her own dark secrets. As he unravels the mystery of the manor, Evan discovers a dangerous romance—and uncovers truths about his past.
 
@@ -49,7 +49,7 @@ Call to Adventure: A strange summons to Ravenswood reveals clues to Evan’s ori
 Trials: Navigating his growing attraction to Lady Morwenna, Evan stumbles upon forbidden corridors and dark secrets.
 Resolution: Evan narrowly escapes a sinister conspiracy and realizes his family legacy is tied to powerful enemies.
 
-#Book 3: The Masked Rebel (Inspired by The Scarlet Pimpernel)
+# Book 3: The Masked Rebel (Inspired by The Scarlet Pimpernel)
 
 Summary: Evan joins a covert resistance movement, adopting the alias "The Crimson Shadow." Tasked with liberating those oppressed by the tyrannical House of Morrigan, he must tread a dangerous line between heroism and revenge. His double life forces him to balance loyalty and secrecy, and a thrilling romance adds new stakes.
 
@@ -73,7 +73,7 @@ Call to Adventure: Evan encounters a village under threat from a powerful lord.
 Trials: Living among villagers, Evan learns of their struggles and takes a stand, bringing him face-to-face with his past.
 Resolution: Evan is forced to leave the village but vows to continue fighting for justice, haunted by unresolved conflicts.
 
-#Book 5: Sisterhood of Flame (Inspired by Little Women)
+# Book 5: Sisterhood of Flame (Inspired by Little Women)
 
 Summary: Reunited with childhood friends and a newfound “family” of resilient allies, Evan finds companionship and warmth, rekindling his hope. This period of peace is interrupted by a shadowy figure seeking vengeance. Evan’s chosen family offers him strength, and together they face their darkest fears and fiercest rivals.
 
@@ -85,7 +85,7 @@ Call to Adventure: Evan reconnects with childhood friend Cass, who harbors feeli
 Trials: Training together, facing their pasts, and bonding over shared trauma, they unite against a common foe.
 Resolution: Cass’s tragic fate inspires Evan and his allies to carry on her legacy.
 
-#Book 6: The Vengeful Heir (Inspired by The Count of Monte Cristo)
+# Book 6: The Vengeful Heir (Inspired by The Count of Monte Cristo)
 
 Summary: Fueled by a thirst for vengeance against those who have wronged him, Evan returns as a powerful and enigmatic figure. Under a new identity, he infiltrates the ranks of his enemies, exacting retribution while grappling with his own darkness.
 
@@ -97,7 +97,7 @@ Call to Adventure: Evan’s discovery of his true heritage reignites his desire 
 Trials: Disguised as a noble, he gains trust while plotting the downfall of his enemies, facing temptation and betrayal.
 Resolution: Evan’s actions lead to unintended consequences, leaving him to confront the price of vengeance.
 
-#Book 7: The Light of Green Gables (Inspired by Anne of Green Gables)
+# Book 7: The Light of Green Gables (Inspired by Anne of Green Gables)
 
 Summary: After years of fighting, Evan returns to a quiet life, settling in a small village where he begins to heal. Here, he rediscovers beauty and joy, finding love and purpose beyond ambition and revenge. The series concludes with Evan achieving peace, surrounded by those he has come to love as family.
 
