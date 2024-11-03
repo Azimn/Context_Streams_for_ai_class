@@ -47,3 +47,172 @@ C. Objective and Goals
 
 Primary Goal: Reach the end of each level while overcoming obstacles.
 Secondary Goals: Collect items, defeat enemies, achieve high scores.
+
+
+FIXED
+
+Creating a Platformer in GB Studio with Character Selection and Unique Abilities
+
+Creating a platformer game in GB Studio that features character selection similar to Super Mario 2, with three unique characters, is an exciting project. Below is a step-by-step guide to help you construct your game in GB Studio, focusing on implementing the specific features you've described.
+
+Prerequisites
+GB Studio installed on your computer.
+Graphics Assets: Sprites for the characters, enemies, backgrounds, and tilesets.
+Audio Assets: Sound effects and music.
+Basic Understanding of GB Studio's Interface.
+Step 1: Set Up Your Project
+Open GB Studio and select "New Project".
+Choose the "Platformer" template to start with basic platformer mechanics.
+Name your project and select the directory where you want to save it.
+Step 2: Create the Character Selection Menu
+To implement a character selection menu similar to Super Mario 2:
+
+Design the Menu Scene:
+
+Go to the Scenes panel and create a new scene named "Character Select".
+Set the scene type to "UI" to make it a non-scrolling menu.
+Design the Menu Background:
+
+Use a graphics editor to create a background image that includes the three characters.
+Import the background into GB Studio via the "Backgrounds" asset panel.
+Implement Menu Navigation:
+
+Place Actor Buttons over each character on the menu using the "Add Actor" tool.
+Assign a unique "On Interact" script to each actor that sets the chosen character.
+Set Variables for Character Selection:
+
+Create a global variable (e.g., player_character) to store the selected character.
+Script the Selection Process:
+
+For each character's "On Interact" script:
+Use the "Set Variable" event to assign a unique value to player_character (e.g., 1 for the small boy, 2 for the older boy, 3 for the girl).
+Add a "Switch Scene" event to transition to the first level.
+Step 3: Import and Set Up Character Sprites
+Prepare Character Sprites:
+
+Each character sprite should be formatted according to GB Studio's requirements (preferably 16x16 or 16x32 pixels).
+Create separate sprites for each character's animations (idle, walk, jump, actions).
+Import Sprites:
+
+In the "Sprites" asset panel, import each character's spritesheets.
+Define animations for each action by setting up frames and animation loops.
+Create Player Actors for Each Character:
+
+In the "Actors" panel, create a new actor for each character.
+Assign the corresponding sprite and set the actor type to "Player".
+Step 4: Implement Character Abilities
+To give each character unique abilities, you'll use GB Studio's event scripting.
+
+Small Boy (Super Strong and Can Dance)
+Strength Ability:
+
+Use a variable (e.g., isStrong) that's true when the small boy is selected.
+In enemy collision events, check if isStrong is true to allow the boy to defeat certain enemies or push heavy objects.
+Dance Ability:
+
+Create an input event (e.g., pressing a specific button) that triggers the dance animation.
+Use the "Start Animation" event to play the dance.
+Older Boy (Uses a Large Book)
+Book Abilities:
+
+Assign an input (e.g., pressing the action button) to open the book.
+Use "If Variable" checks to determine if the older boy is selected.
+Implement abilities like growing a vine:
+Use the "Spawn Actor" event to create a vine actor at the player's position.
+Define the vine actor to grow upward over time.
+Access Restrictions:
+
+Prevent the older boy from entering small areas by adding collision blocks or using variables to check character type.
+Small Girl (Rides a Large Black Cat)
+Summon Cat Ability:
+
+Assign an input to summon the cat.
+Use the "Spawn Actor" event to create the cat actor.
+Set the cat as the controllable player character when summoned.
+Cat Mechanics:
+
+Define the cat's abilities (swipe, jump, run) by setting up its animations and input events.
+When the girl dismounts:
+Switch control back to the girl.
+Adjust her abilities accordingly (e.g., she can't attack but can enter small areas).
+Invincibility and Access:
+
+For the girl, set a variable (e.g., isInvincible) to prevent damage when not on the cat.
+Use "If Variable" checks during enemy collisions to implement this.
+Step 5: Configure Level Design
+Design Levels Similar to Super Mario 2:
+
+Use the "Scenes" panel to create levels with platforms, obstacles, and enemies.
+Import tilesets that match your game's aesthetic.
+Implement Character-Specific Paths:
+
+Include areas accessible only by certain characters.
+Use collision blocks and variables to restrict or allow access.
+Place Interactive Elements:
+
+Add objects that interact with character abilities (e.g., heavy blocks for the small boy to move).
+Step 6: Set Up Enemy Characters
+Design Enemy Sprites:
+
+Create and import sprites for your unique villains.
+Configure Enemy Behaviors:
+
+Use the "Actors" panel to define enemy movements and interactions.
+Set up scripts for enemy behaviors (patrol, chase, attack).
+Step 7: Implement Game Mechanics
+Health and Lives:
+
+Create variables to track player health and lives.
+Use UI elements to display this information on-screen.
+Checkpoints and Save Systems:
+
+Place checkpoints in levels using actors.
+Script events to save the player's progress.
+Power-Ups and Collectibles:
+
+Design items that enhance abilities or provide bonuses.
+Use collision events to handle item pickups.
+Step 8: Add Audio
+Import Music and Sound Effects:
+
+In the "Music" and "Sounds" panels, import your audio assets.
+Ensure they are in compatible formats (e.g., .wav, .mod).
+Assign Audio to Events:
+
+Set background music for levels.
+Attach sound effects to actions (jumping, attacking, etc.).
+Step 9: Testing and Debugging
+Test Each Character Individually:
+
+Play through levels with each character to ensure their abilities work as intended.
+Check Scene Transitions:
+
+Ensure that moving between levels and the character selection menu works smoothly.
+Debug Issues:
+
+Use GB Studio's debugging tools to identify and fix any errors or glitches.
+Step 10: Export and Share Your Game
+Export the Game:
+
+Use the "Build" option to compile your game for the Game Boy, or export it as a ROM file.
+Play on Emulator or Hardware:
+
+Test the game on a Game Boy emulator or real hardware if available.
+Additional Tips
+Use Variables Effectively:
+
+Variables are crucial for tracking states like which character is selected and their abilities.
+Modular Scripting:
+
+Keep your scripts organized by grouping events related to specific functionalities.
+Asset Management:
+
+Name your assets clearly to keep track of them easily.
+Community Resources:
+
+Refer to GB Studio forums and communities for additional help and asset sharing.
+Conclusion
+
+By following these steps, you'll be able to create a platformer game in GB Studio featuring a character selection menu and three unique characters with distinct abilities. Remember to iteratively test your game to ensure a smooth and enjoyable experience. Good luck with your game development journey!
+
+
