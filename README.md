@@ -3,7 +3,23 @@ This is for my Ai class in Fall 2024.
 This is my archive of resources serving as context for my applied AI portfolio.
 
 1. Book Series exparament
+2. Fantasy Film of my kids
 
+This file will present the projects in reverse order.
+
+Fantasy film
+I used midjourney primarily to create fantasy images and then an AI face-swapping tool to superimpose the faces of my children onto the characters. This process was particularly fulfilling, as it blended personal creativity with the technical capabilities of AI to produce something both unique and meaningful.
+Building on these visuals, I used AI video-generation tools to animate the images into short video clips. This step underscored the impressive potential of AI in multimedia production, as I was able to create visually compelling content in a fraction of the time it would take with traditional animation techniques. However, the process also exposed significant limitations, such as difficulties in maintaining consistent character designs and logical animations across clips, as well as the restricted length of the generated videos (typically 5–10 seconds).
+To address these limitations, I used Adobe Premiere to manually edit and assemble the AI-generated clips into a cohesive video. I added AI-generated audio and sound effects using tools like Eleven Labs and Udio, further enhancing the final product. Despite the challenges, I was ultimately pleased with the outcome, as it demonstrated both the current power and the future potential of AI-driven tools in filmmaking.
+
+
+
+
+
+
+
+
+Book Project
 # List of Books for the base of my series
 - "David Copperfield" by Charles Dickens** – David’s early years establish the foundation of resilience and ambition as he faces a world that tests his innocence and moral compass. A natural "first chapter" for a journey that evolves in complexity.
 
